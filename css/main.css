@@ -12,13 +12,38 @@ hr{
     
 }
 
+#nav{
+    width: 50%;
+    margin-left:25%;
+    margin-right:25%;
+    text-transform: uppercase;
+    fontsize: 18px;
+}
+
 #nav ul{
     list-style-type:none;
-    text-transform: uppercase;
-    fontsize: 14px;
+
 }
 
 #nav li{
     display:inline;
     margin-right:20px;
 }
+
+#nav a{
+    text-decoration:none;
+    padding:5px;
+    color:#77903c;
+}
+
+#nav a:hover{
+    text-decoration:none;
+    background: "LightGrey";
+    color:"black"
+
+}
+body{
+    font-family:"Open Sans", "Arial", "Sans-serif";
+    
+}
+
