@@ -46,6 +46,13 @@ hr{
 #nav a:selected{
     color:black;
 }
+
+#title{
+    font-size:20px;
+    color:gray;
+    font-weight:bold;
+    text-align:center;
+}
 body{
     font-family:"Open Sans", "Arial", "Sans-serif";
     
