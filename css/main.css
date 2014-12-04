@@ -42,6 +42,10 @@ hr{
     color:black;
 
 }
+
+#nav a:selected{
+    color:black;
+}
 body{
     font-family:"Open Sans", "Arial", "Sans-serif";
     
