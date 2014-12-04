@@ -38,8 +38,8 @@ hr{
 
 #nav a:hover{
     text-decoration:none;
-    background: "LightGrey";
-    color:"black"
+    background: lightgray;
+    color:black;
 
 }
 body{
