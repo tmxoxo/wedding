@@ -13,7 +13,11 @@ date: 2014-05-01
 <head>
 <link rel="stylesheet" href="/wedding/css/main.css" />
 <meta name=viewport content="width=device-width, initial-scale=1">
-
+<script>
+  $("nav select").change(function() {
+  window.location = $(this).find("option:selected").val();
+});
+</script>
 </head>
 
 <body lang="en" id="main-layout" >
