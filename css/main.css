@@ -82,11 +82,4 @@ body{
     margin-left:5%;
   }
   
-  #nav ul {
-    display: inline;
-  }
-  
-  #nav li{
-    display: inline-block;
-  }
 }
