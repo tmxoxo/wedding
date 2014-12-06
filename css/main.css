@@ -58,6 +58,10 @@ hr{
     color:black;
 }
 
+#nav select{
+  display:none;
+}
+
 #title{
     font-size:20px;
     color:gray;
@@ -84,5 +88,12 @@ body{
   
   body{
     font-size:120%;
+  }
+  
+  #nav ul{
+    display: none;
+  }
+  #nav select{
+    display: inline-block;
   }
 }
