@@ -2,6 +2,11 @@
     margin: 150px auto 0 auto;
 }
 
+#logo img{
+  width:35%;
+  margin-left:32%;
+}
+
 hr{
     border:0px;
     height: 1px;
