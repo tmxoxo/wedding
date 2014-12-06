@@ -75,10 +75,18 @@ body{
   #logo img{
   width:90%%;
   margin-left:5%;
-}
+  }
 
-#std img{
-  width: 90%;
-  margin-left:5%;
-}
+  #std img{
+    width: 90%;
+    margin-left:5%;
+  }
+  
+  #nav ul {
+    display: none;
+  }
+  
+  #nav li{
+    display: inline-block;
+  }
 }
