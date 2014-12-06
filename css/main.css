@@ -54,6 +54,11 @@ hr{
 
 }
 
+@font-face {
+  font-family: "JennaSue";
+  src: url(http://tmxoxo.github.io/media/JennaSue.ttf) format("truetype");
+}
+
 #nav a:selected{
     color:black;
 }
