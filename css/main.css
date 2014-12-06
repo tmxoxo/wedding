@@ -83,7 +83,7 @@ body{
   }
   
   #nav ul {
-    display: none;
+    display: inline;
   }
   
   #nav li{
