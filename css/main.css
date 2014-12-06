@@ -78,6 +78,11 @@ body{
     
 }
 
+#wel{
+  margin-left:25%;
+  font-family:JennaSue;
+  font-size:3em;
+}
 
 @media screen and (max-width: 500px) {
 /* applies only if the screen is narrower than 500px */
@@ -100,5 +105,8 @@ body{
   }
   #nav select{
     display: inline-block;
+  }
+  #wel {
+    font-size:2em;
   }
 }
