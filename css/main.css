@@ -108,7 +108,7 @@ body{
   #nav select{
     display: inline-block;
     background: transparent;
-    width: 200px;
+    width: 100%;
     padding: 5px;
     border:0;
     -webkit-appearance:none;
