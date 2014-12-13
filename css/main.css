@@ -107,6 +107,11 @@ body{
   
   #nav select{
     display: inline-block;
+    background: transparent;
+    width: 250px;
+    padding: 5px;
+    border:0;
+    -webkit-appearance:none;
   }
   #wel {
     font-size:1.8em;
@@ -114,6 +119,8 @@ body{
   }
   form {
       background: url(http://i62.tinypic.com/15xvbd5.png) no-repeat 96% 0;
-
+      width:220px;
+      border:1px solid #ccc;
+      overflow: hidden;
   }
 }
