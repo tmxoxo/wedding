@@ -99,6 +99,7 @@ body{
   
   body{
     font-size:120%;
+    margin-top:5%;
   }
   
   #nav ul{
@@ -128,7 +129,8 @@ body{
   }
   #nav{
       margin-left:5%;
-      margin-right:5%
+      margin-right:5%;
+      
       width:90%
   }
 }
