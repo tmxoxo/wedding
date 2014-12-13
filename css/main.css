@@ -112,6 +112,7 @@ body{
     padding: 5px;
     border:0;
     -webkit-appearance:none;
+    font-size:.8em;
   }
   #wel {
     font-size:1.8em;
@@ -120,11 +121,14 @@ body{
   
   form {
       background: url(http://i62.tinypic.com/15xvbd5.png) no-repeat 96% 0;
-      width:175px;
+      width:100%;
       border:1px solid #ccc;
       overflow: hidden;
+      height:1.5em;
   }
   #nav{
       margin-left:5%;
+      margin-right:5%
+      width:90%
   }
 }
