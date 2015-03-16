@@ -85,6 +85,11 @@ body{
   font-size:3em;
 }
 
+#content{
+    margin: 5% 10%;
+    text-align:center;   
+}
+
 @media screen and (max-width: 500px) {
 /* applies only if the screen is narrower than 500px */
   #logo img{
@@ -134,3 +139,4 @@ body{
       width:90%
   }
 }
+
